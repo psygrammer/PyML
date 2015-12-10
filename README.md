@@ -2,8 +2,8 @@
 Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)
 
 * 교재
-  - 파이썬 교재 : [Coursera - 존스홉킨스 Regression Models] (https://www.coursera.org/course/regmods)
-  - Regression 교재 : [Machine Learning in action ] - Peter Harrington
+  - Regression R : [Coursera - 존스홉킨스 Regression Models] (https://www.coursera.org/course/regmods)
+  - Python ML : [Machine Learning in action ] - Peter Harrington
 
 # 커리큘럼
 * 2015년 12월 14일~ 2016년 2월 29일

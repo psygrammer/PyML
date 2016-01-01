@@ -19,17 +19,17 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |     |(코세라) 01 Part 4 of 4 Introductory Data Example|김성근 | |
 |   |     |(코세라) 02 Part 1 of 1 Notation and Background|박상진| | 
 | 2 |12/21|(파이썬) 3. Splitting datasets one feature at a time: decision trees|신성진| |
-|   |     |(코세라) 03 Part 1 of 3 Linear Least Squares| | |
-|   |     |(코세라) 03 Part 2 of 3 Linear Least Squares Coding Example|| |
-|   |     |(코세라) 03 Part 3 of 3 Technical Details (Skip if you'd like)|| |
-|   |     |(코세라) 04 Part 1 of 1 Regression to the Mean|| |
-| 3 |1/4|(파이썬) 4.Classifying with probability theory: nai:ve Bayes|| |
-|   |     |(코세라) 05 Part 1 of 3 Statistical Linear Regression Models|| |
-|   |     |(코세라) 05 Part 2 of 3 Interpreting Coefficients|| |
-|   |     |(코세라) 05 Part 3 of 3 Linear Regression for Prediction|| |
-|   |     |(코세라) 01_06 Part 1 of 3 Residuals|| |
-|   |     |(코세라) 01_06 Part 2 of 3 Residuals, Coding Example|| |
-|   |     |(코세라) 01_06 Part 3 of 3 Residual Variance|| |
+|   |     |(코세라) 03 Part 1 of 3 Linear Least Squares|김성근| |
+|   |     |(코세라) 03 Part 2 of 3 Linear Least Squares Coding Example|김성근| |
+|   |     |(코세라) 03 Part 3 of 3 Technical Details (Skip if you'd like)|김성근| |
+|   |     |(코세라) 04 Part 1 of 1 Regression to the Mean|김성근| |
+| 3 |1/4|(파이썬) 4.Classifying with probability theory: nai:ve Bayes|조정호| |
+|   |     |(코세라) 05 Part 1 of 3 Statistical Linear Regression Models|김성근| |
+|   |     |(코세라) 05 Part 2 of 3 Interpreting Coefficients|김성근| |
+|   |     |(코세라) 05 Part 3 of 3 Linear Regression for Prediction|김성근| |
+|   |     |(코세라) 01_06 Part 1 of 3 Residuals|서기호| |
+|   |     |(코세라) 01_06 Part 2 of 3 Residuals, Coding Example|서기호| |
+|   |     |(코세라) 01_06 Part 3 of 3 Residual Variance|서기호| |
 | 4 |1/11|(파이썬) 5. Logistic regression || |
 |   |     |(파이썬) 6. Support vector machines| | |
 |   |     |(코세라) 01_07 Part 1 of 3 Inference in Regression| | |

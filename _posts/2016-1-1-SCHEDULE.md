@@ -17,7 +17,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |     |(코세라) 01 Part 2 of 4 Basic Least Squares|김성근| |
 |   |     |(코세라) 01 Part 3 of 4 Technical Details|김성근| |
 |   |     |(코세라) 01 Part 4 of 4 Introductory Data Example|김성근 | |
-|   |     |(코세라) 02 Part 1 of 1 Notation and Background| |박상진 | |
+|   |     |(코세라) 02 Part 1 of 1 Notation and Background|박상진| | 
 | 2 |12/21|(파이썬) 3. Splitting datasets one feature at a time: decision trees|신성진| |
 |   |     |(코세라) 03 Part 1 of 3 Linear Least Squares| | |
 |   |     |(코세라) 03 Part 2 of 3 Linear Least Squares Coding Example|| |

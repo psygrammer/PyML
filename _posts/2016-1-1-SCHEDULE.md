@@ -11,14 +11,16 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
-| 1 |12/14|(파이썬) 1.Machine learning basics|권준호| |
-|   |     |(파이썬) 2.Classifying with k-Nearest Neighbors|권준호| |
+| 1 |12/14|(파이썬) 1.Machine learning basics|권준호|[발표자료](https://github.com/psygrammer/PyML/blob/master/1214/Machine-Learning-in-Action-Ch01.ipynb) |
+|   |     |(파이썬) 2.Classifying with k-Nearest Neighbors|권준호|[발표자료](https://github.com/psygrammer/PyML/blob/master/1214/Machine-Learning-in-Action-Ch02.ipynb) |
 |   |     |(코세라) 01 Part 1 of 4 Introduction to Regression|김성근| |
 |   |     |(코세라) 01 Part 2 of 4 Basic Least Squares|김성근| |
 |   |     |(코세라) 01 Part 3 of 4 Technical Details|김성근| |
 |   |     |(코세라) 01 Part 4 of 4 Introductory Data Example|김성근 | |
 |   |     |(코세라) 02 Part 1 of 1 Notation and Background|박상진| | 
-| 2 |12/21|(파이썬) 3. Splitting datasets one feature at a time: decision trees|신성진| |
+| 2 |12/21|(파이썬) 3. Splitting datasets one feature at a time: decision trees|신성진|[발표자료](https://github.com/psygrammer/PyML/blob/master/1221/trees.ipynb)|
+|   |     |(파이썬) 추가발표자료1|신성진|[발표자료](https://github.com/psygrammer/PyML/blob/master/1221/treesplotter.ipynb)|
+|   |     |(파이썬) 추가발표자료2|신성진|[발표자료](https://github.com/psygrammer/PyML/blob/master/1221/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC%20%EC%98%88%EC%B8%A1%20%ED%99%9C%EC%9A%A9.ipynb)|
 |   |     |(코세라) 03 Part 1 of 3 Linear Least Squares|김성근| |
 |   |     |(코세라) 03 Part 2 of 3 Linear Least Squares Coding Example|김성근| |
 |   |     |(코세라) 03 Part 3 of 3 Technical Details (Skip if you'd like)|김성근| |

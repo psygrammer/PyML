@@ -7,6 +7,8 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 진행 중
 
 * 2015년 12월 14일~ 2016년 2월 29일
+* 코세라 regression 은 발표자료 링크가 따로 없다면, 해당 강좌의 자료를 사용함
+  - https://www.coursera.org/learn/regression-models
 
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
